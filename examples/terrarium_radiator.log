@@ -1,0 +1,300 @@
+Send: N97542 G0 F6000 X100.908 Y54.03*71
+Recv: ok
+Send: N97543 G0 X102.476 Y54.272*20
+Recv: ok
+Send: N97544 G0 X102.582 Y54.091*22
+Recv: ok
+Send: N97545 G1 F3600 X100.501 Y56.171 E3846.39848*13
+Recv: ok
+Send: N97546 G0 F6000 X100.656 Y56.016*113
+Recv: ok
+Send: N97547 G0 X98.842 Y54.291*36
+Recv: ok
+Send: N97548 G0 X98.335 Y54.03*25
+Recv: ok
+Send: N97549 G0 X98.336 Y53.811*39
+Recv:  T:209.96 /210.00 B:65.23 /65.00 @:85 B@:0
+Recv: ok
+Send: N97550 G1 F3600 X97.7 Y54.447 E3846.43294*49
+Recv: ok
+Send: N97551 G0 F6000 X97.019 Y54.447*71
+Recv: ok
+Send: N97552 G1 F3600 X96.383 Y53.811 E3846.4674*12
+Recv: ok
+Send: N97553 G0 F6000 X96.382 Y54.03*113
+Recv: ok
+Send: N97554 G0 X93.81 Y54.03*35
+Recv: ok
+Send: N97555 G0 X93.811 Y53.81*30
+Recv: ok
+Send: N97556 G1 F3600 X93.175 Y54.447 E3846.50189*58
+Recv: ok
+Send: N97557 G0 F6000 X92.493 Y54.447*66
+Recv: ok
+Send: N97558 G1 F3600 X91.857 Y53.81 E3846.53638*8
+Recv: ok
+Send: N97559 G0 F6000 X91.856 Y54.029*70
+Recv: ok
+Send: N97560 G0 X89.286 Y54.029*34
+Recv: ok
+Send: N97561 G0 X89.287 Y53.81*23
+Recv: ok
+Send: N97562 G1 F3600 X88.649 Y54.447 E3846.57093*50
+Recv: ok
+Send: N97563 G0 F6000 X87.968 Y54.447*72
+Recv: ok
+Send: N97564 G1 F3600 X87.331 Y53.81 E3846.60544*3
+Recv: ok
+Send: N97565 G0 F6000 X87.33 Y54.029*117
+Recv: ok
+Send: N97566 G0 X84.761 Y54.029*37
+Recv: ok
+Send: N97567 G0 X84.762 Y53.809*42
+Recv: ok
+Send: N97568 G1 F3600 X84.124 Y54.447 E3846.64001*51
+Recv: ok
+Send: N97569 G0 F6000 X83.442 Y54.447*67
+Recv: ok
+Send: N97570 G1 F3600 X82.805 Y53.809 E3846.67456*50
+Recv: ok
+Send: N97571 G0 F6000 X82.804 Y54.028*72
+Recv: ok
+Send: N97572 G0 X80.236 Y54.028*34
+Recv: ok
+Send: N97573 G0 X80.237 Y53.808*47
+Recv: ok
+Send: N97574 G1 F3600 X79.599 Y54.447 E3846.70916*52
+Recv: ok
+Send: N97575 G0 F6000 X78.917 Y54.447*71
+Recv: ok
+Send: N97576 G1 F3600 X78.278 Y53.808 E3846.74378*57
+Recv: ok
+Send: N97577 G0 F6000 X78.277 Y54.028*69
+Recv: ok
+Send: N97578 G0 X75.711 Y54.028*34
+Recv: ok
+Send: N97579 G0 X75.712 Y53.807*34
+Recv: ok
+Send: N97580 G1 F3600 X75.073 Y54.447 E3846.77843*52
+Recv: ok
+Send: N97581 G0 F6000 X74.391 Y54.447*68
+Recv: ok
+Send: N97582 G1 F3600 X73.752 Y53.807 E3846.81309*55
+Recv: ok
+Send: N97583 G0 F6000 X73.751 Y54.027*75
+Recv: ok
+Send: N97584 G0 X71.186 Y54.027*34
+Recv: ok
+Send: N97585 G0 X71.187 Y53.807*47
+Recv: ok
+Send: N97586 G1 F3600 X70.548 Y54.447 E3846.84774*61
+Recv: ok
+Send: N97587 G0 F6000 X69.866 Y54.447*77
+Recv: ok
+Send: N97588 G1 F3600 X69.226 Y53.807 E3846.88242*55
+Recv: ok
+Send: N97589 G0 F6000 X69.225 Y54.027*76
+Recv:  T:210.04 /210.00 B:65.15 /65.00 @:84 B@:0
+Recv: ok
+Send: N97590 G0 X66.745 Y53.997*45
+Recv: ok
+Send: N97591 G0 X66.663 Y53.806*32
+Recv: ok
+Send: N97592 G1 F3600 X66.555 Y53.914 E3846.88827*58
+Recv: ok
+Send: N97593 G1 F2700 E3844.38827*60
+Recv: ok
+Send: N97594 G0 F6000 X66.745 Y53.997*73
+Recv: ok
+Send: N97595 G0 X98.842 Y54.291*43
+Recv: ok
+Send: N97596 G0 X103.332 Y58.781*31
+Recv: ok
+Send: N97597 G0 X103.332 Y82.473*23
+Recv: ok
+Send: N97598 G0 X100.656 Y85.238*18
+Recv: ok
+Send: N97599 G0 X100.501 Y85.082*17
+Recv: ok
+Send: N97600 G1 F2700 E3846.88827*60
+Recv: ok
+Send: N97601 G1 F3600 X102.58 Y87.161 E3847.00092*60
+Recv: ok
+Send: N97602 G0 F6000 X102.327 Y86.72*76
+Recv: ok
+Send: N97603 G1 F2700 E3844.50092*62
+Recv: ok
+Send: N97604 G0 F300 X102.327 Y86.72 Z23.88*42
+Recv: ok
+Send: N97605 G0 F6000 X99.916 Y87.256*69
+Recv: ok
+Send: N97606 G0 X99.919 Y88.791*40
+Recv: ok
+Send: N97607 G0 X56.273 Y88.78*29
+Recv: ok
+Send: N97608 G0 X55.589 Y87.277*33
+Recv: ok
+Send: N97609 G0 X54.524 Y87.278*41
+Recv: ok
+Send: N97610 G0 X54.055 Y87.256*46
+Recv: ok
+Send: N97611 G0 X54.186 Y87.527*33
+Recv: ok
+Send: N97612 G1 F2700 E3847.00092*56
+Recv: ok
+Send: N97613 G1 F1800 X54.185 Y86.128 E3847.05453*48
+Recv:  T:210.00 /210.00 B:65.02 /65.00 @:87 B@:0
+Recv: ok
+Send: N97614 G1 X54.415 Y85.897 E3847.06702*94
+Recv: ok
+Send: N97615 G1 X51.071 Y82.552 E3847.24824*84
+Recv: ok
+Send: N97616 G1 X50.896 Y82.216 E3847.26276*95
+Recv: ok
+Send: N97617 G1 X50.896 Y59.127 E3848.14743*84
+Recv: ok
+Send: N97618 G1 X51.071 Y58.702 E3848.16504*88
+Recv: ok
+Send: N97619 G1 X55.071 Y54.702 E3848.38179*83
+Recv: ok
+Send: N97620 G1 X55.407 Y54.527 E3848.3963*98
+Recv: ok
+Send: N97621 G1 X56.378 Y54.527 E3848.43351*80
+Recv: ok
+Send: N97622 G1 X56.377 Y53.727 E3848.46416*88
+Recv: ok
+Send: N97623 G1 X52.37 Y53.731 E3848.61769*99
+Recv: ok
+Send: N97624 G1 X51.997 Y53.771 E3848.63206*94
+Recv: ok
+Send: N97625 G1 X51.639 Y53.887 E3848.64648*91
+Recv: ok
+Send: N97626 G1 X51.289 Y54.043 E3848.66117*95
+Recv: ok
+Send: N97627 G1 X50.989 Y54.263 E3848.67542*81
+Recv: ok
+Send: N97628 G1 X50.801 Y54.432 E3848.68511*84
+Recv: ok
+Send: N97629 G1 X50.632 Y54.62 E3848.69479*100
+Recv: ok
+Send: N97630 G1 X50.415 Y54.915 E3848.70882*82
+Recv: ok
+Send: N97631 G1 X50.256 Y55.271 E3848.72376*88
+Recv: ok
+Send: N97632 G1 X50.147 Y55.605 E3848.73722*91
+Recv:  T:210.06 /210.00 B:64.83 /65.00 @:84 B@:0
+Recv: ok
+Send: N97633 G1 X50.1 Y56.006 E3848.75269*83
+Recv: ok
+Send: N97634 G1 X50.101 Y85.253 E3849.87331*89
+Recv: ok
+Send: N97635 G1 X50.139 Y85.624 E3849.8876*104
+Recv: ok
+Send: N97636 G1 X50.277 Y86.048 E3849.90469*94
+Recv: ok
+Send: N97637 G1 X50.42 Y86.33 E3849.9168*99
+Recv: ok
+Send: N97638 G1 X50.707 Y86.724 E3849.93548*94
+Recv: ok
+Send: N97639 G1 X50.938 Y86.955 E3849.948*83
+Recv: ok
+Send: N97640 G1 X51.301 Y87.217 E3849.96515*91
+Recv: ok
+Send: N97641 G1 X51.635 Y87.366 E3849.97916*81
+Recv: ok
+Send: N97642 G1 X51.939 Y87.464 E3849.9914*97
+Recv: ok
+Send: N97643 G1 X52.307 Y87.523 E3850.00568*80
+Recv: ok
+Send: N97644 G1 X54.186 Y87.527 E3850.07768*91
+Recv: ok
+Send: N97645 G1 F2700 E3847.57768*58
+Recv: ok
+Send: N97646 G0 F6000 X53.916 Y87.256*68
+Recv: ok
+Send: N97647 G0 X54.357 Y85.699*40
+Recv: ok
+Send: N97648 G0 X55.008 Y85.926*36
+Recv: ok
+Send: N97649 G1 F2700 E3850.07768*53
+Recv:  T:210.14 /210.00 B:64.76 /65.00 @:81 B@:127
+Recv: ok
+Send: N97650 G1 F1800 X51.354 Y82.269 E3850.27575*61
+Recv: ok
+Send: N97651 G1 X51.298 Y82.162 E3850.28038*89
+Recv: ok
+Send: N97652 G1 X51.296 Y59.127 E3851.16298*87
+Recv: ok
+Send: N97653 G1 X51.354 Y58.985 E3851.16886*93
+Recv: ok
+Send: N97654 G1 X55.354 Y54.985 E3851.38561*90
+Recv: ok
+Send: N97655 G1 X55.461 Y54.929 E3851.39023*94
+Recv: ok
+Send: N97656 G1 X56.778 Y54.927 E3851.4407*103
+Recv: ok
+Send: N97657 G1 X56.777 Y53.327 E3851.502*84
+Recv: ok
+Send: N97658 G1 X52.349 Y53.331 E3851.67166*86
+Recv: ok
+Send: N97659 G1 X52.054 Y53.362 E3851.68303*80
+Recv: ok
+Send: N97660 G1 X51.781 Y53.42 E3851.69372*96
+Recv: ok
+Send: N97661 G1 X51.495 Y53.513 E3851.70524*91
+Recv: ok
+Send: N97662 G1 X51.219 Y53.637 E3851.71684*87
+Recv: ok
+Send: N97663 G1 X50.973 Y53.778 E3851.7277*99
+Recv: ok
+Send: N97664 G1 X50.737 Y53.952 E3851.73894*88
+Recv: ok
+Send: N97665 G1 X50.517 Y54.148 E3851.75023*95
+Recv: ok
+Send: N97666 G1 X50.321 Y54.368 E3851.76152*91
+Recv: ok
+Send: N97667 G1 X50.147 Y54.604 E3851.77275*80
+Recv: ok
+Send: N97668 G1 X50.006 Y54.85 E3851.78361*111
+Recv: ok
+Send: N97669 G1 X49.882 Y55.127 E3851.79524*92
+Recv: ok
+Send: N97670 G1 X49.754 Y55.519 E3851.81104*88
+Recv: ok
+Send: N97671 G1 X49.7 Y55.983 E3851.82894*84
+Recv: ok
+Send: N97672 G1 X49.701 Y85.274 E3852.95125*94
+Recv:  T:210.12 /210.00 B:64.87 /65.00 @:83 B@:127
+Recv: ok
+Send: N97673 G1 X49.731 Y85.57 E3852.96265*107
+Recv: ok
+Send: N97674 G1 X49.787 Y85.835 E3852.97302*92
+Recv: ok
+Send: N97675 G1 X49.906 Y86.202 E3852.98781*87
+Recv: ok
+Send: N97676 G1 X50.074 Y86.531 E3853.00196*87
+Recv: ok
+Send: N97677 G1 X50.227 Y86.765 E3853.01267*93
+Recv: ok
+Send: N97678 G1 X50.409 Y86.992 E3853.02382*87
+Recv: ok
+Send: N97679 G1 X50.678 Y87.261 E3853.0384*96
+Recv: ok
+Send: N97680 G1 X50.981 Y87.479 E3853.0527*111
+Recv: ok
+Send: N97681 G1 X51.224 Y87.62 E3853.06346*98
+Recv: ok
+Send: N97682 G1 X51.491 Y87.74 E3853.07468*100
+Communication timeout while printing, trying to trigger response from printer. Configure long running commands or increase communication timeout if that happens regularly on specific commands or long moves.
+Send: N97683 M105*36
+Communication timeout while printing, trying to trigger response from printer. Configure long running commands or increase communication timeout if that happens regularly on specific commands or long moves.
+Send: N97684 M105*35
+Communication timeout while printing, trying to trigger response from printer. Configure long running commands or increase communication timeout if that happens regularly on specific commands or long moves.
+Send: N97685 M105*34
+Communication timeout while printing, trying to trigger response from printer. Configure long running commands or increase communication timeout if that happens regularly on specific commands or long moves.
+Send: N97686 M105*33
+Communication timeout while printing, trying to trigger response from printer. Configure long running commands or increase communication timeout if that happens regularly on specific commands or long moves.
+Send: N97687 M105*32
+No response from printer after 6 consecutive communication timeouts, considering it dead. Configure long running commands or increase communication timeout if that happens regularly on specific commands or long moves.
+Changing monitoring state from "Printing" to "Offline after error"
+Connection closed, closing down monitor
